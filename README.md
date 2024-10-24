@@ -40,6 +40,10 @@ stocks:
     holdNumber: 0
 ```
 
+## Screenshot
+[img](./doc/screenshot-1.png)
+
 ## TODO
-* sort
-* filter
+- [ ] ShortcutKey
+- [ ] Sort
+- [ ] Filter
