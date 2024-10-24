@@ -1,0 +1,4 @@
+## build
+```bash
+make all
+```

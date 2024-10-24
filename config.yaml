@@ -1,0 +1,35 @@
+global:
+  # 更新间隔, ms
+  updateInterval: 5000
+
+stocks:
+  - code: "sz300641"
+    alias: "正丹"
+    # 持仓单价
+    holdPrice: 0
+    # 持仓数量
+    holdNumber: 0
+  - code: "sz300085"
+    alias: "银之杰"
+    holdPrice: 0
+    holdNumber: 0
+  - code: "sh688981"
+    alias: "中芯"
+    holdPrice: 0
+    holdNumber: 0
+  - code: "sh512480"
+    alias: "bdtETF"
+    holdPrice: 0
+    holdNumber: 0
+  - code: "sz300284"
+    alias: "sjk"
+    holdPrice: 0
+    holdNumber: 0
+  - code: "sz000750"
+    alias: "国海"
+    holdPrice: 0
+    holdNumber: 0
+  - code: "hk02576"
+    alias: "太美"
+    holdPrice: 0
+    holdNumber: 0

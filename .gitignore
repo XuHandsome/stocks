@@ -1,0 +1,8 @@
+build/
+logs/
+
+.DS_Store
+.idea/
+.vscode/
+
+stocks
