@@ -1,3 +1,6 @@
+hash:=$(shell git rev-parse --short HEAD)
+tag?=$(hash)
+
 ARCH := amd64 arm64
 OS := linux windows darwin
 
@@ -8,7 +11,7 @@ hydra:
 
 all: clean
 	mkdir -p build
-	bash build.sh
+	bash build.sh ${tag}
 
 clean:
 	rm -rf build/*
