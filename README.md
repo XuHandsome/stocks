@@ -41,7 +41,7 @@ stocks:
 ```
 
 ## Screenshot
-[img](./doc/screenshot-1.png)
+![img](./doc/screenshot-1.png)
 
 ## TODO
 - [ ] ShortcutKey
